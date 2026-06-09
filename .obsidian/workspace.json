@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "raw/2026-06-09_V2O5用於紅外線感測器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ac788308a486481b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "514e40bb9f9dbc29",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "2026-06-09_V2O5用於紅外線感測器"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "raw/2026-06-09_V2O5用於紅外線感測器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 2026-06-09_V2O5用於紅外線感測器"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "raw/2026-06-09_V2O5用於紅外線感測器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 2026-06-09_V2O5用於紅外線感測器"
             }
           },
           {
@@ -172,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "raw/2026-06-09_V2O5用於紅外線感測器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 2026-06-09_V2O5用於紅外線感測器"
             }
           }
         ]
@@ -199,8 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "fa9e716af326d55e",
+  "active": "bd40b832b300ff33",
   "lastOpenFiles": [
+    "raw/Vanadium Oxide Phase Diagrams, Structures, Synthesis, and.pdf",
+    "wiki/索引/總索引.md.tmp.22692.d2a014631333",
+    "wiki/索引/總索引.md.tmp.22692.3199c91831a4",
+    "wiki/概念/VOₓ紅外線感測器.md",
+    "wiki/概念/VOₓ紅外線感測器.md.tmp.22692.cf0a598a3af8",
+    "Welcome.md",
+    "raw/2026-06-09_V2O5用於紅外線感測器.md",
+    "raw/2026-06-09_V2O5用於紅外線感測器.md.tmp.22692.703b4a9a69be",
     "raw/放置說明.md",
     "raw/放置說明.md.tmp.22692.41cbca4f4bbd",
     "系統/校驗提示詞.md",
@@ -212,11 +204,6 @@
     "wiki/衍生/查詢回答",
     "wiki/衍生/投影片",
     "wiki/衍生/圖表",
-    "wiki/衍生",
-    "wiki/索引",
-    "wiki/概念",
-    "wiki",
-    "raw",
-    "Welcome.md"
+    "wiki/衍生"
   ]
 }
